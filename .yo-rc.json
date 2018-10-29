@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "ApiGateway",
+    "packageName": "com.elm.apigateway",
+    "packageFolder": "com/elm/apigateway",
+    "serverPort": 8078,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ar-ly",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NDQ5OTNmZDY0YmNjMDNmMTliNGRhZjE3NDEyYTMwMmRlNDZhOWY2Y2Q4ZTAzNDUwOGJjZjI4MmY0YWM4OTQzNTcxODA3MzhmYjIxMjkxMjQzYmY0NjYyZTk0OTc3NmQ1MmFmNWFlNGExY2Y1NGE2ZmJlNjcwNGZhMzc0ZDFkY2M="
+  },
+  "git-provider": "GitHub",
+  "git-company": "rashad79",
+  "repository-name": "api-gateway"
+}
